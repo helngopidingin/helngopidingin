@@ -56,6 +56,5 @@
 
 </div>
 
-<img src="assets/banner.gif" width="100%" alt="">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
